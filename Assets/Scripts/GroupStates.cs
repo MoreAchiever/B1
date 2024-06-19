@@ -391,14 +391,6 @@ public class GroupStates : MonoBehaviour
 
 
     //for testing multiple functions
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.F))
-        {
-            IncreaseMoney(5000);
-        }
-        //Debug.Log(CurrentMoney);
-    }
 
 
 
